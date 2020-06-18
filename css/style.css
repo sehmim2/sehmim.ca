@@ -357,7 +357,8 @@ button:focus {
           height: auto; } }
       @media (max-width: 991px) {
         .home_banner_area .banner_inner .home_right_img {
-          display: none; } }
+          width: 30vw;
+        top: 100px } }
     .home_banner_area .banner_inner .col-lg-7 {
       vertical-align: middle;
       align-self: center; }
@@ -3001,8 +3002,6 @@ h6 {
   .home_banner_area {
     margin-top: 0; }
 
-  .home_right_img {
-    display: none; }
 
   /* Footer Area css
   ============================================================================================ */
