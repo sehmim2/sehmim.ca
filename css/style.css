@@ -350,14 +350,13 @@ button:focus {
   .home_banner_area .banner_inner {
     width: 100%; }
     .home_banner_area .banner_inner .home_right_img {
-      padding-top: 197px; }
+      padding: 10px; }
       @media (max-width: 1480px) {
         .home_banner_area .banner_inner .home_right_img img {
           max-width: 100%;
           height: auto; } }
       @media (max-width: 991px) {
         .home_banner_area .banner_inner .home_right_img {
-          width: 30vw;
         top: 100px } }
     .home_banner_area .banner_inner .col-lg-7 {
       vertical-align: middle;
@@ -3079,7 +3078,6 @@ h6 {
 
   .home_banner_area .banner_inner {
     min-height: 300px;
-    padding-top: 200px;
     padding-bottom: 50px; }
 
   .home_banner_area .banner_inner .banner_content {

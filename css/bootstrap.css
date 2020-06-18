@@ -611,6 +611,32 @@ pre code {
     }
 }
 
+@media (min-width:576px) {
+    .col-lg-5 {
+        justify-content: center;
+        display: flex;   
+    }
+
+}
+
+@media (max-width:576px) {
+    .col-lg-5 {
+        justify-content: center;
+        display: flex;   
+    }
+}
+
+.img-fluid {
+    max-width: 230px;
+    border-radius: 20px;
+}
+
+#img-box{
+    justify-content: center;
+    display: flex;
+}
+
+
 .container-fluid {
     width: 100%;
     padding-right: 15px;
@@ -1303,7 +1329,9 @@ pre code {
     .col-lg-5 {
         -ms-flex: 0 0 41.666667%;
         flex: 0 0 41.666667%;
-        max-width: 41.666667%
+        max-width: 41.666667%;
+        justify-content: center;
+        display: flex; 
     }
     .col-lg-6 {
         -ms-flex: 0 0 50%;
