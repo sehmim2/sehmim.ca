@@ -24,6 +24,7 @@ Author E-mail: naimlasker@gmail.com
 /* Mobile Layout: 320px */
 /* Wide Mobile Layout: 480px */
 /*---------------------------------------------------- */
+
 /*----------------------------------------------------*/
 body {
   line-height: 26px;
@@ -31,7 +32,8 @@ body {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   color: #777777;
-  background: url(../img/body-bg.png) no-repeat center; }
+
+}
 
 h1,
 h2,
