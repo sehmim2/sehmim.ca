@@ -3,5 +3,6 @@
 ## Demo
 [sehmim.ca](http://sehmim.ca/)
 
-[![Visits Badge](https://github.com/sehmim2/sehmim.ca)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/sehmim2/sehmim.ca)](https://badges.pufler.dev)
+
 
